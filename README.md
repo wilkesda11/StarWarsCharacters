@@ -1,2 +1,0 @@
-# StarWarsCharacters
-Created with CodeSandbox
