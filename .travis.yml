@@ -1,0 +1,13 @@
+#.travis.yml
+
+language: node_js
+node_js: 
+-"iojs"
+-"7"
+
+branches: only: -master
+
+npm test
+
+script: 
+-ng build --prod
